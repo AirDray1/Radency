@@ -1,0 +1,46 @@
+:root {
+    --font-family: Roboto;
+    --color-text: rgb(255,255,255);
+    --color-background: rgb(33,33,33);
+    --color-background-compact-menu: rgba(33,33,33,0.86);
+    --color-chat: rgb(44,44,44);
+    --border-width: 1px;
+    --vh: 6.26px;
+    --border-color: rgba(211, 211, 211, 0.1);
+    --color-default-shadow: rgba(16,16,16,0.611765);
+    --border-radius: 0.75rem;
+    --gray-color: #D3D3D3;
+    --gray-color-title: rgb(170,170,170);
+}
+
+
+body {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: 100%;
+    height: 100vh;
+    background-color: rgb(16,15,16);
+    overflow-x: hidden;
+}
+
+.content {
+    width: 19.688rem;
+    margin: 0 auto;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+@keyframes scaling {
+    from {
+        scale: 0.5;
+    }
+    to{
+        scale: 1;
+    }
+}

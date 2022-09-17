@@ -1,0 +1,102 @@
+[
+    {
+        "category": "Task",
+        "name": "Shopping",
+        "data": "2022, 9, 16, 19:41:31",
+        "content": [
+            {
+                "name": "Bread",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "1"
+            },
+            {
+                "name": "Tomatoes",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "3"
+            },
+            {
+                "name": "Cucumbers",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "3"
+            },
+            {
+                "name": "Carots",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "2"
+            },
+            {
+                "name": "Ketchup",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "1"
+            },
+            {
+                "name": "Mustard",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "1"
+            },
+            {
+                "name": "Mayonnaise",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "1"
+            },
+            {
+                "name": "Sausages",
+                "data": "2022, 8, 16, 19:41:31",
+                "amount": "10"
+            }
+        ]
+    },
+    {
+        "category": "Task",
+        "name": "Books",
+        "data": "2022, 1, 16, 19:41:31",
+        "img": "/img/svg_icons/book.svg",
+        "content": [
+            {
+                "name": "How not to dead",
+                "data": "2022, 8, 16, 19:41:31"
+            },
+            {
+                "name": "How to get first job in IT",
+                "data": "2022, 8, 16, 19:41:31"
+            },
+            {
+                "name": "AI and everything about it",
+                "data": "2022, 8, 16, 19:41:31"
+            },
+            {
+                "name": "Let it stay hear",
+                "data": "2022, 8, 16, 19:41:31"
+            }
+        ]
+    },
+    {
+        "category": "Random thought",
+        "name": "The theory of evolution",
+        "data": "2022, 8, 16, 19:41:31",
+        "content": [
+            {
+                "name": "Something very hard for understanding",
+                "data": "2022, 8, 16, 19:41:31",
+                "text": "Many consider a startup to be a company in its early stages, others argue that it is an innovative company with low maintenance costs and a propensity to achieve high profits.Me, I prefer to say that it is a being (society), belonging to a group, governed by rules and laws of the country where it was born, modified, or differentiated in its essence by an idea, that distinguishes it from all others. The realization of startups depends on the ecosystem in which they were born. Among several points, highlighting public sector policies and actions oriented to the development of the entrepreneurship sector such as: tax incentives, modernized and facilitated business creation environment, attractive financing programs, stable economic environment, an educational system that already takes into account in the curriculums soft skills and encourages entrepreneurship."
+            }
+        ]
+    },
+    {
+        "category": "Idea",
+        "name": "New feature",
+        "data": "2020, 7, 16, 19:41:31",
+        "content": [
+            {
+                "name": "Implement new New Technology",
+                "data": "2020, 8, 16, 19:41:31",
+                "text": "For all the dollars spent by American companies on R&D, there often remains a persistent and troubling gap between the inherent value of the technology they develop and their ability to put it to work effectively. At a time of fierce global competition, the distance between technical promise and genuine achievement is a matter of especially grave concern. Drawing on their long study of the difficulties managers have had in closing this gap, the authors identify half a dozen key challenges that managers responsible for implementing new technology must surmount: their inescapably dual role, the variety of internal markets to be served, legitimate resistance to change, the right degree of promotion, the choice of implementation site, and the need for one person to take overall responsibility."
+            },
+            {
+                "name": "Implement new React hooks",
+                "data": "2020, 8, 16, 19:41:31",
+                "text": "Visit and check official documentation!"
+            }
+        ]
+    }
+]
