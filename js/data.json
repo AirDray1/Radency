@@ -90,12 +90,14 @@
             {
                 "name": "Implement new New Technology",
                 "data": "2020, 8, 16, 19:41:31",
-                "text": "For all the dollars spent by American companies on R&D, there often remains a persistent and troubling gap between the inherent value of the technology they develop and their ability to put it to work effectively. At a time of fierce global competition, the distance between technical promise and genuine achievement is a matter of especially grave concern. Drawing on their long study of the difficulties managers have had in closing this gap, the authors identify half a dozen key challenges that managers responsible for implementing new technology must surmount: their inescapably dual role, the variety of internal markets to be served, legitimate resistance to change, the right degree of promotion, the choice of implementation site, and the need for one person to take overall responsibility."
+                "text": "For all the dollars spent by American companies on R&D, there often remains a persistent and troubling gap between the inherent value of the technology they develop and their ability to put it to work effectively. At a time of fierce global competition, the distance between technical promise and genuine achievement is a matter of especially grave concern. Drawing on their long study of the difficulties managers have had in closing this gap, the authors identify half a dozen key challenges that managers responsible for implementing new technology must surmount: their inescapably dual role, the variety of internal markets to be served, legitimate resistance to change, the right degree of promotion, the choice of implementation site, and the need for one person to take overall responsibility.",
+                "target": "To write response."
             },
             {
                 "name": "Implement new React hooks",
                 "data": "2020, 8, 16, 19:41:31",
-                "text": "Visit and check official documentation!"
+                "text": "Visit and check official documentation!",
+                "target": "To write response and share info."
             }
         ]
     }

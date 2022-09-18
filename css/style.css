@@ -1,5 +1,6 @@
 @import url(reset.css);
 
+@import url(common.css);
 @import url(section/left-sidebar.css);
 @import url(section/content.css);
-@import url(common.css);
+@import url(section/main.css);
