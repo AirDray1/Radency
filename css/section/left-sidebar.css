@@ -221,7 +221,7 @@
 .list__items__wrapper {
     font-family: var(--font-family);
     color: rgb(255,255,255);
-    overflow-y: auto;
+    overflow: hidden;
 }
 
 .list__items {

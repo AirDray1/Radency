@@ -35,6 +35,10 @@
     background: rgba(170,170,170, 0.4);
 }
 
+.main-wrapper {
+    position: relative;
+}
+
 .main-wrapper .item__title{
     color: var(--color-text);
     font-weight: 500;
@@ -127,10 +131,16 @@
     margin-right: 0 0 0 5px;
 }
 
+.tools__item {
+    cursor: pointer;
+}
+
 .main-input {
+    position: absolute;
     display: grid;
-    grid-template-columns: 11.5fr 0.5fr;
+    grid-template-columns: 11fr 1fr;
     width: 100%;
+    top:91%;
 }
 
 .main__input__input {
@@ -150,7 +160,13 @@
 
 .main__input__btn {
     background: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: none;
+}
+
+.main__input__btn > * {
     cursor: pointer;
 }
 
@@ -174,3 +190,6 @@
     width: 100%;
 }
 
+.main__content__tools {
+    list-style: none;
+}
