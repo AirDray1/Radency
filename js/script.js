@@ -17,6 +17,8 @@ let removeBtn = document.querySelector('.remove__btn');
 let anchor = document.querySelector('.anchor');
 let add__btn = document.querySelector('.add__btn');
 
+let scroll = document.querySelector('.content');
+
 left__sidebar.addEventListener('mouseleave', () => {
     let anchor__block_b = document.querySelector('.achor__block'); 
     anchor__block_b.classList.remove('open');
