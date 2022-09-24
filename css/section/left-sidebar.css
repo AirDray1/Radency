@@ -30,7 +30,7 @@
 
 .search_btn::before {
     content: "";
-    background: url(.../img/svg_icons/search.svg) center no-repeat;
+    background: url(../../img/svg_icons/search.svg) center no-repeat;
     padding: 0.625rem;
     margin-left: calc(0.5rem - var(--border-width));
 }
@@ -214,17 +214,17 @@
 }
 
 .archive::before {
-    background: url(../img/svg_icons/envelope-paper.svg) no-repeat;
+    background: url(../../img/svg_icons/envelope-paper.svg) no-repeat;
     background-size: 19px;
 }
 
 .add__list::before {
-    background: url(./img/svg_icons/plus-square.svg) no-repeat;
+    background: url(../../img/svg_icons/plus-square.svg) no-repeat;
     background-size: 19px;
 }
 
 .remove__list::before {
-    background: url(/img/svg_icons/envelope-slash.svg) no-repeat;
+    background: url(../../img/svg_icons/envelope-slash.svg) no-repeat;
     background-size: 19px;
 }
 
