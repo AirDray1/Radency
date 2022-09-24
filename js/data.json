@@ -50,7 +50,7 @@
         "category": "Task",
         "name": "Books",
         "data": "2022, 1, 16, 19:41:31",
-        "img": "/img/svg_icons/book.svg",
+        "img": "../img/svg_icons/book.svg",
         "content": [
             {
                 "name": "How not to dead",
