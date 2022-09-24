@@ -1,5 +1,5 @@
 .main-wrapper {
-    background: url(../../img/light.png) repeat;
+    background-image: url(../../img/light.png) repeat;
     background-position: top right;
     background-size: 510px auto;
 }
