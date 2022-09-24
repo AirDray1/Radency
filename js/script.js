@@ -333,7 +333,7 @@ function createList(array) {
             let item__logo__item = document.createElement('div');
             item__logo__item.classList.add('item__logo__item');
             item__logo.append(item__logo__item);
-            item__logo__item.innerHTML = `${element.img != undefined ? `<img src=${element.img} width="21px" height="21px">` : element.name.slice(0,2).toUpperCase()}`;
+            item__logo__item.innerHTML = `${element.img != undefined ? `<img src=".${element.img}" width="21px" height="21px">` : element.name.slice(0,2).toUpperCase()}`;
 
             let item__content = document.createElement('div');
             item__content.classList.add('item__content');
